@@ -1,4 +1,3 @@
-Here's a detailed README for your Personality Cluster Analysis project:
 
 ```markdown
 # Personality Cluster Analysis
